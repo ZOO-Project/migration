@@ -1,0 +1,15 @@
+djay = Gérald Fenoy <gerald.fenoy@geolabs.fr>
+nbozon = Nicolas Bozon <nicolas.bozon@gmail.com>
+david = David Saggiorato <david@saggiorato.net>
+nmarco = Marco Negretti	<marco.negretti@polimi.it>
+knut = Knut Landmark <knut.landmark@ffi.no>
+neteler = Markus Neteler <markus.neteler@iasma.it>
+jmckenna = Jeff McKenna <jmckenna@gatewaygeomatics.com>
+(no author) = Jeff McKenna <jmckenna@gatewaygeomatics.com>
+reluc = René-Luc D'Hont <rldhont@gmail.com>
+root = Gérald Fenoy <gerald.fenoy@geolabs.fr>
+lucadelu = Luca Delucchi <lucadeluge@gmail.com>
+samsouk = Samuel Souk-Aloun <samsouk@gmail.com>
+kalxas = Angelos Tzotsos <gcpp.kalxas@gmail.com>
+transifex = Transifex User <contact@geolabs.fr>
+cresson = Rémi Cresson <remi.cresson@teledetection.fr>
