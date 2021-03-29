@@ -1,9 +1,9 @@
 djay = Gérald Fenoy <gerald.fenoy@geolabs.fr>
 nbozon = Nicolas Bozon <nicolas.bozon@gmail.com>
 david = David Saggiorato <david@saggiorato.net>
-nmarco = Marco Negretti	<marco.negretti@polimi.it>
+nmarco = Marco Negretti	<marco_negretti@yahoo.it>
 knut = Knut Landmark <knut.landmark@ffi.no>
-neteler = Markus Neteler <markus.neteler@iasma.it>
+neteler = Markus Neteler <neteler@osgeo.org>
 jmckenna = Jeff McKenna <jmckenna@gatewaygeomatics.com>
 (no author) = Jeff McKenna <jmckenna@gatewaygeomatics.com>
 reluc = René-Luc D'Hont <rldhont@gmail.com>
